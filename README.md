@@ -1,39 +1,24 @@
-🛒 Shopzcart – Product Listing Page
+Shopzcart — Product Listing Page
 A clean, responsive online shopping page with real-time search, filtering, cart, and wishlist.
 
-🚀 Live Demo
-👉 Open Demo
+🌐 Live Demo
+View Here
 
-✨ Features
-Quick Search: Find products instantly as you type
+Features
+— Real-time product search
+— Sidebar category filter (toggle on mobile, sticky on desktop)
+— Add/remove items to cart and wishlist
+— Cart & wishlist with instant popup modal
+— Fully responsive for desktop, tablet, and mobile
+— Data from Fake Store API
+— Sticky footer, modern layout
+— Mobile-friendly touch targets, keyboard accessible
 
-Category Sidebar: Filter by category (desktop sticky, mobile slide-over)
+How to Use
+— No setup, no install required
+— Just visit the live demo in any browser
 
-Add to Cart & Wishlist: Save favorites or cart items in one click
-
-Cart & Wishlist Modals: Easily review your selections at any time
-
-Responsive Layout: Optimized for desktop, tablet, and phone
-
-Modern Styling: Pure React and CSS, Figma-inspired
-
-Fake Store API: Realistic product data, no manual mocks
-
-Sticky Footer: Always at the bottom, never in your way
-
-🖥️ Tech Stack
-React with hooks
-
-CSS (NO Tailwind, NO Bootstrap, NO extra libraries)
-
-API: Fake Store API
-
-💡 How To Use
-Just open the live demo!
-
-No setup, no install, just the web.
-
-📱 Mobile-First & Accessible
-Works perfectly on any device—test it on your phone!
-
-Semantic HTML and accessible modals/buttons.
+Tech Stack
+— React (function components, hooks)
+— CSS (no frameworks)
+— Public API (Fake Store API)
