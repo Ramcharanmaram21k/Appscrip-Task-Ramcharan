@@ -1,25 +1,39 @@
-Shopzcart – Product Listing SPA
-A responsive product listing page built with React and pure CSS, designed for Appscrip evaluation.
+🛒 Shopzcart – Product Listing Page
+A clean, responsive online shopping page with real-time search, filtering, cart, and wishlist.
 
-🌐 Live Demo
-👉 View the live site here
+🚀 Live Demo
+👉 Open Demo
 
-Features
-Real-time product search
+✨ Features
+Quick Search: Find products instantly as you type
 
-Sidebar category filter (toggle on mobile)
+Category Sidebar: Filter by category (desktop sticky, mobile slide-over)
 
-Add to cart & wishlist (with modal popups)
+Add to Cart & Wishlist: Save favorites or cart items in one click
 
-Fully responsive: Desktop, tablet, mobile – all UI is touch-friendly
+Cart & Wishlist Modals: Easily review your selections at any time
 
-API data from Fake Store API
+Responsive Layout: Optimized for desktop, tablet, and phone
 
-Simple, clean sticky footer
+Modern Styling: Pure React and CSS, Figma-inspired
 
-Quick Info
-No setup needed, just use the live demo
+Fake Store API: Realistic product data, no manual mocks
 
-Matches Figma responsiveness and requirements
+Sticky Footer: Always at the bottom, never in your way
 
-Modern UI, pure React, no CSS libraries
+🖥️ Tech Stack
+React with hooks
+
+CSS (NO Tailwind, NO Bootstrap, NO extra libraries)
+
+API: Fake Store API
+
+💡 How To Use
+Just open the live demo!
+
+No setup, no install, just the web.
+
+📱 Mobile-First & Accessible
+Works perfectly on any device—test it on your phone!
+
+Semantic HTML and accessible modals/buttons.
