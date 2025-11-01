@@ -1,23 +1,25 @@
-Appscrip - Product Listing Page
-A modern, responsive e-commerce product listing page with real-time filters, wishlist, cart, and mobile/tablet support.
-Built with React and pure CSS.
+Shopzcart – Product Listing SPA
+A responsive product listing page built with React and pure CSS, designed for Appscrip evaluation.
 
 🌐 Live Demo
 👉 View the live site here
 
-✨ Features
-Search products in real time
+Features
+Real-time product search
 
-Category sidebar filter (toggle on mobile)
+Sidebar category filter (toggle on mobile)
 
-Responsive layout (desktop, tablet, mobile)
+Add to cart & wishlist (with modal popups)
 
-Add/remove from cart and wishlist
-
-Cart & wishlist modals
+Fully responsive: Desktop, tablet, mobile – all UI is touch-friendly
 
 API data from Fake Store API
 
-Sticky footer, Figma-matching design
+Simple, clean sticky footer
 
-📱 Mobile and desktop fully supported.
+Quick Info
+No setup needed, just use the live demo
+
+Matches Figma responsiveness and requirements
+
+Modern UI, pure React, no CSS libraries
